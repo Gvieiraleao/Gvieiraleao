@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Leão</h1>
-<h3 align="center">A quiet Frontend developer from Brazil</h3>
+<h3 align="center">A quiet Fullstack Developer from Brazil</h3>
 
 - 🔭 I’m currently working on **some personal projects**
 
